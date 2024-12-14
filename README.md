@@ -1,3 +1,3 @@
 # Movie-Website
 
-## React JS Project
+## React JS Project using Vite
